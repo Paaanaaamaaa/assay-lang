@@ -1,2 +1,2 @@
-# ray-lang
+# Assay
 rust-c
